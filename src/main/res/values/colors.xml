@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="item_city_bg">#297a29</color>
+    <color name="item_province_bg">#158461</color>
+    <color name="item_city_text">#072635</color>
+    <color name="item_city_plate_number">#11648d</color>
+</resources>
